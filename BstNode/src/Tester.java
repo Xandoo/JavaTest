@@ -21,5 +21,6 @@ public class Tester {
         bstObj.traverseAndPrint(bstObj.rootNode);
 
         System.out.println(bstObj.find(56));
+        System.out.println("Memeos");
     }
 }
